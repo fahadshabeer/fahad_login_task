@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "925676041735",
+    "project_id": "garden-care-62be6",
+    "storage_bucket": "garden-care-62be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925676041735:android:0ed7953449b9e7449f5ca2",
+        "android_client_info": {
+          "package_name": "com.example.aim_digital_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925676041735-bs48n5goh6l1elj8o3ljnaquocjfksps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAZTZ1FreIbUod6IsrRG_E_R1uLtM2cFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925676041735-bs48n5goh6l1elj8o3ljnaquocjfksps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925676041735-jhefn1olrbo64lhil98h54esvvq2qr23.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aimDigitalTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
